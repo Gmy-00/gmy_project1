@@ -1,1 +1,0 @@
-# gmy_project1
